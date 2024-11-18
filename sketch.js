@@ -25,7 +25,7 @@ const INDEX_FINGER_TIP= 8;
 // Matter.js 
 const {Engine, Body, Bodies, Composite, Composites, Constraint, Vector} = Matter;
 let engine;
-let bridge; let num = 18; let radius = 15; let length = 20;
+let bridge; let num = 11; let radius = 15; let length = 20;
 let circles = [];
 
 let colorPalette = ["#abcd5e", "#14976b", "#2b67af", "#62b6de", "#f589a3", "#ef562f", "#fc8405", "#f9d531"]; 
